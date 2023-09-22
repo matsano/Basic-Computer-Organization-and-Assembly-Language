@@ -13,4 +13,4 @@ The activities were implemented in Assembly.
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-We would like to thank the professor Mr. Rodolfo Jardim De Azevedo for the knowledge taught in Basic Computer Organization and Assembly Language Course at [UNICAMP](https://www.unicamp.br/unicamp/).
+I would like to thank the professor Mr. Rodolfo Jardim De Azevedo for the knowledge taught in Basic Computer Organization and Assembly Language Course at [UNICAMP](https://www.unicamp.br/unicamp/).
