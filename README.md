@@ -1,5 +1,5 @@
 # Basic-Computer-Organization-and-Assembly-Language
-Basic Computer Organization and Assembly Language Course (MC404)
+Basic Computer Organization and Assembly Language Course
 
 ## 📋 Description
 Set of activities implemented during the course.
